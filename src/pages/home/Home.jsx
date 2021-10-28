@@ -1,12 +1,17 @@
+import Posts from "../../component/posts/Posts";
+import Sidebar from "../../component/sidebar/Sidebar";
 import Header from "../../header/Header";
 import "./home.css";
 
 const Home = () => {
   return (
-    <div className="home">
+    <>
       <Header />
-      homepage
-    </div>
+      <div className="home">
+        <Posts />
+        <Sidebar />
+      </div>
+    </>
   );
 };
 
