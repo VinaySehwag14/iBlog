@@ -25,16 +25,16 @@ const TopBar = () => {
               HOME
             </Link>
           </ul>
-          <ul className="topListItem">
+          {/* <ul className="topListItem">
             <Link className="link" to="/about">
               ABOUT
             </Link>
-          </ul>
-          <ul className="topListItem">
+          </ul> */}
+          {/* <ul className="topListItem">
             <Link className="link" to="/about">
               CONTACT
             </Link>
-          </ul>
+          </ul> */}
           <ul className="topListItem">
             <Link className="link" to="/write">
               WRITE
@@ -58,7 +58,7 @@ const TopBar = () => {
               </Link>
             </li>
             <li className="topListItem">
-              <Link className="link" to="register">
+              <Link className="link" to="/register">
                 REGISTER
               </Link>
             </li>
