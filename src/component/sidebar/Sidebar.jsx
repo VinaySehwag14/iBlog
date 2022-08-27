@@ -7,12 +7,12 @@ const Sidebar = () => {
       <div className="sidebarItem">
         <span className="sidebarTitle">ABOUT ME</span>
         <img
-          src="https://themegoods-cdn-pzbycso8wng.stackpathdns.com/grandblog/demo/wp-content/uploads/2015/11/aboutme.jpg"
+          src="https://images.pexels.com/photos/13394510/pexels-photo-13394510.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
           alt="about me"
         />
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Neque soluta
-          accusamus a eum, quibusdam suscipit
+          I am a full stack web developer (MERN) stack , I also have interest in
+          UI/UX design . I love to solve problems .
         </p>
       </div>
       <div className="sidebarItem">

@@ -31,6 +31,8 @@
 
 .sidebarItem > img {
   margin-top: 15px;
+  width: 25rem;
+  height: 25rem;
 }
 
 .sidebarItem > p {
